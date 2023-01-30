@@ -1,8 +1,5 @@
 ## Setup
 
-All code was developed and tested on Nvidia V100 the following environment.
-
-- Python 2.7
 - opencv3
 - scikit-image
 - numpy
